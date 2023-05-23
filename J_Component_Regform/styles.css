@@ -1,0 +1,18 @@
+.heading {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.form-container {
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 10px;
+}
